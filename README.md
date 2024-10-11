@@ -24,3 +24,9 @@ I use [TexStudio](https://www.texstudio.org/) and [Overleaf](https://www.overlea
 ```bash
 Coming soon...
 ```
+
+# Novel Idea behind the research.
+
+Financial prediction is challenging due to the complexity of modeling short-term fluctuations and long-term dependencies in stock prices. Transformers, successful in natural language processing and computer vision, have sparked interest in time series due to their ability to capture long-range dependencies. While previous research in stock prediction mostly focuses on individual historical prices, this paper enhances accuracy by using correlated features to predict multiple stock prices and reduce errors in exceptional cases. We combine the Transformer model with the Time2Vec technique as the encoder, and provide a comparative analysis with other models, suggesting future research directions.
+
+
